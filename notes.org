@@ -1,10 +1,11 @@
-
+#+TITLE:PIWARS 2017
 
 * Autonomous Tasks
 
 ** Straight line speed test
 
 ** Minimal Maze
+ - [[http://piwars.org/2017-competition/challenges/minimal-maze/][Maze Layout]]
 
 ** Line follower
 
@@ -14,12 +15,38 @@
 ** PI Noon
 
 ** Obstacle course 
+ Humps, Ramps
+ 
 
 ** Skittles (60 pts)
+ - [[http://www.ebay.co.uk/itm/310903597419][Skittles set]]
 
+* Parts / Notes
 
-* Parts
+** x6 Wheel design 
+ - Possibly Sumo wheels
 
-** x6 Sumo wheels - removable
+** Claw / Cup 
+For moving golf ball around and retrieving the ball in skittles
+ - must be in contact with ground
 
-** 
+** Rotating wheels for skittles
+
+** Controller boards
+ - Raspberry PI 3
+ - Arduinos 
+
+** Sensors 
+ - [[https://www.sparkfun.com/products/12785][SparkFun ToF Range Finder Sensor - VL6180]]
+ - [[https://www.sparkfun.com/products/13959][Ultrasonic Sensor - HC-SR04]]
+ - LDR sensor
+
+* 
+* 
+* 
+* 
+* 
+
+* Useful examples
+ - [[https://www.youtube.com/watch?v=PJl21ZEuhHs][Revenge of the PyroBot at PIWARS]]
+ - 
