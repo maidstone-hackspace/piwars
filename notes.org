@@ -24,13 +24,12 @@
 * Parts / Notes
 
 ** x6 Wheel design 
- - Possibly Sumo wheels
+ - Possibly Rotating wheel design for skittles
+ - Possibly Sumo wheels ?
 
 ** Claw / Cup 
 For moving golf ball around and retrieving the ball in skittles
  - must be in contact with ground
-
-** Rotating wheels for skittles
 
 ** Controller boards
  - Raspberry PI 3
@@ -41,12 +40,19 @@ For moving golf ball around and retrieving the ball in skittles
  - [[https://www.sparkfun.com/products/13959][Ultrasonic Sensor - HC-SR04]]
  - LDR sensor
 
-* 
-* 
-* 
-* 
-* 
-
 * Useful examples
  - [[https://www.youtube.com/watch?v=PJl21ZEuhHs][Revenge of the PyroBot at PIWARS]]
  - 
+
+* Tasks
+** TODO Develop robot frame
+** TODO Arduino circuit to control Range finder
+** TODO Write Arduino code to interface with Range finder software
+** TODO Arduino circuit to control Ultrasonic Sensor
+** TODO Write Arduino code to interface with Ultrasonic Sensor
+** TODO Arduino circuit to control LDR Sensor 
+** TODO Write Arduino code to read from LDR sensor
+** TODO Arduino circuit to control the motors
+** TODO Write Arduino code to control the motors
+** TODO Arduino circuit for the ball grabber
+** TODO Write Arduino code to control grabber
