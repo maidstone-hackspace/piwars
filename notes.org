@@ -39,14 +39,7 @@ For moving golf ball around and retrieving the ball in skittles
 ** Sensors 
  - [[https://www.sparkfun.com/products/12785][SparkFun ToF Range Finder Sensor - VL6180]]
  - [[https://www.sparkfun.com/products/13959][Ultrasonic Sensor - HC-SR04]]
- - LDR sensor
-
-* 
-* 
-* 
-* 
-* 
+ - LDR sensor 
 
 * Useful examples
  - [[https://www.youtube.com/watch?v=PJl21ZEuhHs][Revenge of the PyroBot at PIWARS]]
- - 
