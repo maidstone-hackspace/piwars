@@ -1,0 +1,25 @@
+
+
+* Autonomous Tasks
+
+** Straight line speed test
+
+** Minimal Maze
+
+** Line follower
+
+* Controlled Tasks
+** Slightly deranged golf
+
+** PI Noon
+
+** Obstacle course 
+
+** Skittles (60 pts)
+
+
+* Parts
+
+** x6 Sumo wheels - removable
+
+** 
