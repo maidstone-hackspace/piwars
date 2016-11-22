@@ -33,7 +33,7 @@ For moving golf ball around and retrieving the ball in skittles
 ** Controller boards
  - Raspberry PI 3
  - Arduinos 
- - [[http://bit.ly/2flv2Op][Adafruit 16 channel PWM controller]]
+ - [[http://bit.ly/2flv2Op][Adafruit 16 channel PWM controller]] / [[https://thepihut.com/products/adafruit-16-channel-pwm-servo-hat-for-raspberry-pi?utm_medium=cpc&utm_source=googlepla&variant=1130976012&gclid=COftt9LLvNACFQ0z0wodUGYBgQ][Adafruit 16 Channel PWM HAT]]
 
 ** Sensors 
  - [[https://www.sparkfun.com/products/12785][SparkFun ToF Range Finder Sensor - VL6180]]
