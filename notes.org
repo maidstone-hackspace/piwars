@@ -22,6 +22,7 @@
 * Parts / Notes
 
 Adafruit 16 channel PWM controller - http://bit.ly/2flv2Op
+12V 300RPM motor - http://www.ebay.co.uk/itm/142181229667 
 
 ** x6 Wheel design 
  - Possibly Rotating wheel design for skittles
