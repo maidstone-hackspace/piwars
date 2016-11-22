@@ -20,15 +20,12 @@
  - [[http://www.ebay.co.uk/itm/310903597419][Skittles set]]
 
 * Parts / Notes
-
-Adafruit 16 channel PWM controller - http://bit.ly/2flv2Op
-12V 300RPM motor - http://www.ebay.co.uk/itm/142181229667 
-
 ** x6 Wheel design 
  - Possibly Rotating wheel design for skittles
  - Possibly Sumo wheels ?
  - [[http://www.modelsport.co.uk/electric-motors/rc-car-categories/9920/992015][RC Motors]] 
  - [[https://www.piborg.org/accessories/12v-motor][PI Borg Motors]]
+ - [[http://www.ebay.co.uk/itm/142181229667][12V 300RPM motor]]
 ** Claw / Cup 
 For moving golf ball around and retrieving the ball in skittles
  - must be in contact with ground
@@ -36,6 +33,7 @@ For moving golf ball around and retrieving the ball in skittles
 ** Controller boards
  - Raspberry PI 3
  - Arduinos 
+ - [[http://bit.ly/2flv2Op][Adafruit 16 channel PWM controller]]
 
 ** Sensors 
  - [[https://www.sparkfun.com/products/12785][SparkFun ToF Range Finder Sensor - VL6180]]
