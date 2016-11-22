@@ -20,6 +20,9 @@
  - [[http://www.ebay.co.uk/itm/310903597419][Skittles set]]
 
 * Parts / Notes
+
+Adafruit 16 channel PWM controller - http://bit.ly/2flv2Op
+
 ** x6 Wheel design 
  - Possibly Rotating wheel design for skittles
  - Possibly Sumo wheels ?
