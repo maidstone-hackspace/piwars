@@ -54,17 +54,15 @@ For moving golf ball around and retrieving the ball in skittles
     - [x] Arduino circuit to control Range finder
     - [x] Arduino circuit to control Ultrasonic Sensor
     - [x] Arduino circuit to control LDR Sensor 
-    - [ ] ~~TODO Arduino circuit to control the motors~~
     - [ ] TODO Arduino circuit for the ball grabber
     - [ ] 14V Battery?
-    - [ ] \(Optional?) Neopixels
-    - [ ] \(Optional?) Lid
-    - [ ] \(Optional?) Voltage sensor.
+    - [ ] (Optional?) Neopixels
+    - [ ] (Optional?) Lid
+    - [ ] (Optional?) Voltage sensor.
   * Software
     - [x] Write Arduino code to interface with Range finder software
     - [x] Write Arduino code to read from LDR sensor
     - [x] Write Arduino code to interface with Ultrasonic Sensor
-    - [ ] ~~TODO Write Arduino code to control the motors~~
     - [ ] TODO Write Arduino code to control grabber
     - [ ] Python - Sensors interface
     - [ ] Python - Motor interface
@@ -72,5 +70,5 @@ For moving golf ball around and retrieving the ball in skittles
     - [ ] Python - Speed Test 
     - [ ] Python - Maze 
     - [ ] Python - Line Follower 
-    - [ ] (\Optional?) Python - Neopixels
+    - [ ] (Optional?) Python - Neopixels
 
