@@ -55,6 +55,7 @@ For moving golf ball around and retrieving the ball in skittles
     - [x] Arduino circuit to control Ultrasonic Sensor
     - [x] Arduino circuit to control LDR Sensor 
     - [ ] TODO Arduino circuit for the ball grabber
+    - [ ] Power regulators for Pi & PWM HAT.
     - [ ] 14V Battery?
     - [ ] (Optional?) Neopixels
     - [ ] (Optional?) Lid
