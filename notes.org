@@ -43,16 +43,34 @@ For moving golf ball around and retrieving the ball in skittles
 * Useful examples
  - [[https://www.youtube.com/watch?v=PJl21ZEuhHs][Revenge of the PyroBot at PIWARS]]
  - [[https://www.youtube.com/watch?v=24GbJCq19V8#t=85.146176][How to build a piwars winning robot]] 
+
 * Tasks
-** TODO Develop robot frame
-** TODO Arduino circuit to control Range finder
-** TODO Write Arduino code to interface with Range finder software
-** TODO Arduino circuit to control Ultrasonic Sensor
-** TODO Write Arduino code to interface with Ultrasonic Sensor
-** TODO Arduino circuit to control LDR Sensor 
-** TODO Write Arduino code to read from LDR sensor
-** TODO Arduino circuit to control the motors
-** TODO Write Arduino code to control the motors
-** TODO Arduino circuit for the ball grabber
-** TODO Write Arduino code to control grabber
+  * Hardware
+    - [x] Develop robot frame
+    - [ ] Develop attachment for Golf/Skittles
+    - [ ] Develop attachment for Pi-Noon
+    - [ ] Print brackets for sensors
+    - [ ] Print Battery Holder
+    - [x] Arduino circuit to control Range finder
+    - [x] Arduino circuit to control Ultrasonic Sensor
+    - [x] Arduino circuit to control LDR Sensor 
+    - [ ] ~~TODO Arduino circuit to control the motors~~
+    - [ ] TODO Arduino circuit for the ball grabber
+    - [ ] 14V Battery?
+    - [ ] \(Optional?) Neopixels
+    - [ ] \(Optional?) Lid
+    - [ ] \(Optional?) Voltage sensor.
+  * Software
+    - [x] Write Arduino code to interface with Range finder software
+    - [x] Write Arduino code to read from LDR sensor
+    - [x] Write Arduino code to interface with Ultrasonic Sensor
+    - [ ] ~~TODO Write Arduino code to control the motors~~
+    - [ ] TODO Write Arduino code to control grabber
+    - [ ] Python - Sensors interface
+    - [ ] Python - Motor interface
+    - [ ] Python - Main Robot (controls everything else)
+    - [ ] Python - Speed Test 
+    - [ ] Python - Maze 
+    - [ ] Python - Line Follower 
+    - [ ] (\Optional?) Python - Neopixels
 
