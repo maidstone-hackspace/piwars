@@ -57,8 +57,8 @@ For moving golf ball around and retrieving the ball in skittles
     - [ ] TODO Arduino circuit for the ball grabber
     - [x] Power regulators for Pi & PWM HAT.
     - [ ] Circuit Board
-    - [ ] Safe shutdown
-    - [ ] 14V Battery?
+    - [ ] Safe shutdown
+    - [ ] 14V Battery?
     - [ ] (Optional?) Neopixels
     - [ ] (Optional?) Lid
     - [ ] (Optional?) Voltage sensor.
